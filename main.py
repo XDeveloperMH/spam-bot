@@ -1,4 +1,4 @@
-import is
+import os
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, User, Message
 
