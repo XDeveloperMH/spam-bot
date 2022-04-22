@@ -6,9 +6,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, User, Mes
 
 Client = Client(
     "Spam Bot V1",
-    bot_token="5200515883:AAHzWS9rax08kVkzo6CSETIBOT8mosKDMU4",
-    api_id="8406611",
-    api_hash="5820bc246505e0ff60af5391d649f9a6"
+    bot_token="52990515883:AAHzWS9rax08kVkzo6CSETIBOT8mosKDMU4",
+    api_id="840661881",
+    api_hash="5820bc24776505e0ff60af5391d649f9a6"
 )
 
 
